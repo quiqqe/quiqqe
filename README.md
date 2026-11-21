@@ -33,8 +33,8 @@ final class Quiqqe
 
 <br/><br/>
 
-<img height="180" src="https://raw.githubusercontent.com/quiqqe/github-stats/generated/overview.svg"/>
-<img height="180" src="https://raw.githubusercontent.com/quiqqe/github-stats/generated/languages.svg"/>
+<img src="https://raw.githubusercontent.com/quiqqe/github-stats/generated/overview.svg"/>
+<img src="https://raw.githubusercontent.com/quiqqe/github-stats/generated/languages.svg"/>
 
 <br/><br/>
 
